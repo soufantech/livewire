@@ -1,6 +1,6 @@
 {
   "name": "livewire",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Node.js transactional messaging framework for Apache Kafka",
   "main": "lib/index.js",
   "repository": "https://gitlab.com/soufan/packages/livewire.git",
